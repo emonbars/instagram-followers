@@ -23,7 +23,7 @@
 ## Install
 
 ```
-$ npm install instagram-followers
+$ npm install github:emonbars/instagram-followers
 ```
 
 ## Usage
@@ -50,12 +50,6 @@ followers('abranhe').then(no => {
 ## Related
 
 - [instagram-followers-cli][instagram-followers-cli]: cli for this module.
-
-## Team
-
-|[![Carlos Abraham Logo][abranhe-img]][abranhe]|
-| :-: |
-| [Carlos Abraham][abranhe] |
 
 ## License
 
